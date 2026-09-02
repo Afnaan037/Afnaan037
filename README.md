@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+👋 About Me<br><br>I'm a Cybersecurity undergraduate at Presidency University, Bengaluru, with a strong interest in ethical hacking, penetration testing, vulnerability assessment, and secure application development.<br><br>I enjoy learning cybersecurity through hands-on practice and building security-focused projects. I've completed 60+ TryHackMe rooms and 62 CyLab Security Academy challenges, while working on practical projects involving network reconnaissance, web application vulnerabilities, encryption, and security testing.<br><br>🔐 What I Work With<br><br>- Cybersecurity: Vulnerability Assessment, Penetration Testing, Network Reconnaissance & Enumeration, OWASP Top 10<br>- Web Security: SQL Injection, Reflected XSS, Stored XSS, Secure Coding<br>- Security Tools: Nmap, Burp Suite, Git & GitHub<br>- Programming: Python, C++, SQL<br>- Technologies: Flask, Cryptography, Rich<br>- OS: Linux & Command-Line Tools<br><br>🚀 Featured Projects<br><br>- triRecon — Modular Python-based security reconnaissance toolkit using Nmap, DNS, Certificate Transparency logs, and directory enumeration.<br>- SecureWebLab — Interactive vulnerable and secure Flask applications demonstrating SQL Injection and Reflected/Stored XSS with corresponding mitigations.<br>- Password Strength Analyzer — Python-based password complexity analysis tool.<br>- Encrypted Keylogger PoC — Controlled cybersecurity research project exploring endpoint threat behavior, encryption, and simulated network exfiltration.<br><br>🎯 Current Goal<br><br>I'm looking to strengthen my practical skills in network security and penetration testing and contribute to real-world cybersecurity projects through internships and collaborative work.<br><br>📍 Bengaluru, India<br>🔗 "LinkedIn" (https://www.linkedin.com/in/mohammed-afnaan-alji-b8b165296)
 
-<!--
-**Afnaan037/Afnaan037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Afnaan037&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Afnaan037&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Afnaan037&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=Afnaan037&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
